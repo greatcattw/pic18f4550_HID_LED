@@ -1,5 +1,5 @@
 # pic18f4550_HID_LED
-pic18f4550 HID class with LED on/off
+pic18f4550 HID class with 8 LEDs on/off
 
 # In progress
 

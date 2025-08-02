@@ -13,6 +13,6 @@ This EVK with 24Mhz xtal.
 This EVK with 20Mhz xtal.
 
 ## note
-I add a cfg_bit.h to designate the setting in th pic18f4550.  
+I added a file of cfg_bit.h to specify the settings in pic18f4550.  
 Thus, select the file of hex that matches your board.  
 --

@@ -21,6 +21,7 @@ This EVK with 20Mhz xtal.
 <br>
 
 ## Flash device of pic18f4550
+...
 ![pic](pic/pg24a.JPG)<br>
 Run MPLAB IDE  
 Select your programmer  

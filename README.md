@@ -2,6 +2,7 @@
 pic18f4550 HID class with 8 LEDs on/off  
 VID=0xffff  
 PID=0x1000  
+2 bytes of out end point. 1 of byte for 8 LEDs.  
 
 # In progress / 上傳中
 # In progress / 上傳中
@@ -29,6 +30,10 @@ Import the file of hex
 <br>
 ![pic](pic/pg24c.JPG)<br>
 Check the setting of clock that matches you board  
+
+## Test with linux
+![pic](pic/t1.png)<br>
+![pic](pic/t2.png)<br>
 
 
 

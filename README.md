@@ -20,9 +20,9 @@ This EVK with 20Mhz xtal.
 <br>
 
 ## Flash device of pic18f4550
-<br>![pic](pic/pg24a.jpg)<br>
-<br>![pic](pic/pg24b.jpg)<br>
-<br>![pic](pic/pg24c.jpg)<br>
+<br>![pic](pic/pg24a.JPG)<br>
+<br>![pic](pic/pg24b.JPG)<br>
+<br>![pic](pic/pg24c.JPG)<br>
 
 
 

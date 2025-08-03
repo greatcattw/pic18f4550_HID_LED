@@ -1,0 +1,505 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRESS_STATE::5	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	213;"	d	line:213
+ADR	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	366;"	m	line:366	struct:_BDT::<anonymous>
+ADRH	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	360;"	m	line:360	struct:_BDT::<anonymous>
+ADRL	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	359;"	m	line:359	struct:_BDT::<anonymous>
+ADR_PENDING_STATE::4	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	212;"	d	line:212
+ATTACHED_STATE::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	209;"	d	line:209
+BC8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	327;"	m	line:327	struct:_BD_STAT::<anonymous>
+BC8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	337;"	m	line:337	struct:_BD_STAT::<anonymous>
+BC9	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	328;"	m	line:328	struct:_BD_STAT::<anonymous>
+BC9	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	338;"	m	line:338	struct:_BD_STAT::<anonymous>
+BDT	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	368;"	t	line:368
+BD_STAT	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	351;"	t	line:351
+BSTALL	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	329;"	m	line:329	struct:_BD_STAT::<anonymous>
+BYTE	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	265;"	t	line:265
+Byte0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	278;"	m	line:278	struct:_WORD::<anonymous>
+Byte1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	279;"	m	line:279	struct:_WORD::<anonymous>
+CFG01::romstruct\	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	600;"	d	line:600
+CLASS::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	145;"	d	line:145
+CLR_FEATURE::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	36;"	d	line:36
+CONFIGURED_STATE::6	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	214;"	d	line:214
+CTRL_TRF_DATA	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	513;"	t	line:513
+CTRL_TRF_RX::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	132;"	d	line:132
+CTRL_TRF_SETUP	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	480;"	t	line:480
+CTRL_TRF_TX::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	131;"	d	line:131
+ClearArray	F:\MAPLIBCXBC\MCC18 USB\main.c	28;"	p	line:28	file:	signature:(byte* startAdr,byte count)
+ClearArray	F:\MAPLIBCXBC\MCC18 USB\main.c	311;"	f	line:311	signature:(byte* startAdr,byte count)
+Cnt	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	358;"	m	line:358	struct:_BDT::<anonymous>
+CtrlTrfData	F:\MAPLIBCXBC\MCC18 USB\USB data.h	112;"	v	line:112
+DEFAULT_STATE::3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	211;"	d	line:211
+DETACHED_STATE::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	208;"	d	line:208
+DEVICE_REMOTE_WAKEUP::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	47;"	d	line:47
+DEV_TO_HOST::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	142;"	d	line:142
+DSC_CFG::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	58;"	d	line:58
+DSC_DEV::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	57;"	d	line:57
+DSC_EP::0x05	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	61;"	d	line:61
+DSC_HID::0x21	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	171;"	d	line:171
+DSC_INTF::0x04	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	60;"	d	line:60
+DSC_PHY::0x23	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	173;"	d	line:173
+DSC_RPT::0x22	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	172;"	d	line:172
+DSC_STR::0x03	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	59;"	d	line:59
+DTS	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	333;"	m	line:333	struct:_BD_STAT::<anonymous>
+DTSEN	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	330;"	m	line:330	struct:_BD_STAT::<anonymous>
+DataDir	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	402;"	m	line:402	struct:_CTRL_TRF_SETUP::<anonymous>
+ENDPOINT_HALT::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	48;"	d	line:48
+EP00_IN::((0x00<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	84;"	d	line:84
+EP00_OUT::((0x00<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	83;"	d	line:83
+EP01_IN::((0x01<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	86;"	d	line:86
+EP01_OUT::((0x01<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	85;"	d	line:85
+EP02_IN::((0x02<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	88;"	d	line:88
+EP02_OUT::((0x02<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	87;"	d	line:87
+EP03_IN::((0x03<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	90;"	d	line:90
+EP03_OUT::((0x03<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	89;"	d	line:89
+EP04_IN::((0x04<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	92;"	d	line:92
+EP04_OUT::((0x04<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	91;"	d	line:91
+EP05_IN::((0x05<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	94;"	d	line:94
+EP05_OUT::((0x05<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	93;"	d	line:93
+EP06_IN::((0x06<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	96;"	d	line:96
+EP06_OUT::((0x06<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	95;"	d	line:95
+EP07_IN::((0x07<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	98;"	d	line:98
+EP07_OUT::((0x07<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	97;"	d	line:97
+EP08_IN::((0x08<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	100;"	d	line:100
+EP08_OUT::((0x08<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	99;"	d	line:99
+EP09_IN::((0x09<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	102;"	d	line:102
+EP09_OUT::((0x09<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	101;"	d	line:101
+EP0_BUFF_SIZE::8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	185;"	d	line:185
+EP10_IN::((0x0A<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	104;"	d	line:104
+EP10_OUT::((0x0A<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	103;"	d	line:103
+EP11_IN::((0x0B<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	106;"	d	line:106
+EP11_OUT::((0x0B<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	105;"	d	line:105
+EP12_IN::((0x0C<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	108;"	d	line:108
+EP12_OUT::((0x0C<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	107;"	d	line:107
+EP13_IN::((0x0D<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	110;"	d	line:110
+EP13_OUT::((0x0D<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	109;"	d	line:109
+EP14_IN::((0x0E<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	112;"	d	line:112
+EP14_OUT::((0x0E<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	111;"	d	line:111
+EP15_IN::((0x0F<<3)|(IN<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	114;"	d	line:114
+EP15_OUT::((0x0F<<3)|(OUT<<2))	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	113;"	d	line:113
+EPDir	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	473;"	m	line:473	struct:_CTRL_TRF_SETUP::<anonymous>
+EPNum	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	471;"	m	line:471	struct:_CTRL_TRF_SETUP::<anonymous>
+EP_CTRL::0x06	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	191;"	d	line:191
+EP_IN::0x0A	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	193;"	d	line:193
+EP_OUT::0x0C	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	192;"	d	line:192
+EP_OUT_IN::0x0E	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	194;"	d	line:194
+GET_CFG::8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	41;"	d	line:41
+GET_DSC::6	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	39;"	d	line:39
+GET_IDLE::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	177;"	d	line:177
+GET_INTF::10	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	43;"	d	line:43
+GET_PROTOCOL::0x03	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	178;"	d	line:178
+GET_REPORT::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	176;"	d	line:176
+GET_STATUS::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	35;"	d	line:35
+GetFeatureReport0	F:\MAPLIBCXBC\MCC18 USB\main.c	1002;"	f	line:1002
+GetFeatureReport0	F:\MAPLIBCXBC\MCC18 USB\main.c	71;"	p	line:71	file:	signature:(void)
+GetInputReport0	F:\MAPLIBCXBC\MCC18 USB\main.c	70;"	p	line:70	file:	signature:(void)
+GetInputReport0	F:\MAPLIBCXBC\MCC18 USB\main.c	992;"	f	line:992
+HIDGetReportHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	62;"	p	line:62	file:	signature:(void)
+HIDGetReportHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	886;"	f	line:886
+HIDInitEP	F:\MAPLIBCXBC\MCC18 USB\main.c	59;"	p	line:59	file:	signature:(void)
+HIDInitEP	F:\MAPLIBCXBC\MCC18 USB\main.c	784;"	f	line:784
+HIDRxReport	F:\MAPLIBCXBC\MCC18 USB\main.c	65;"	p	line:65	file:	signature:(char *buffer, byte len)
+HIDRxReport	F:\MAPLIBCXBC\MCC18 USB\main.c	949;"	f	line:949	signature:(char *buffer, byte len)
+HIDSetReportHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	63;"	p	line:63	file:	signature:(void)
+HIDSetReportHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	920;"	f	line:920
+HIDTxReport	F:\MAPLIBCXBC\MCC18 USB\main.c	66;"	p	line:66	file:	signature:(char *buffer, byte len)
+HIDTxReport	F:\MAPLIBCXBC\MCC18 USB\main.c	970;"	f	line:970	signature:(char *buffer, byte len)
+HID_BD_IN::ep1Bi	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	159;"	d	line:159
+HID_BD_OUT::ep1Bo	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	157;"	d	line:157
+HID_FEATURE_REPORT_BYTES::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	168;"	d	line:168
+HID_INPUT_REPORT_BYTES::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	166;"	d	line:166
+HID_INTF::0x03	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	164;"	d	line:164
+HID_INTF_ID::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	155;"	d	line:155
+HID_INT_IN_EP_SIZE::8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	160;"	d	line:160
+HID_INT_OUT_EP_SIZE::8	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	158;"	d	line:158
+HID_NUM_OF_DSC::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	161;"	d	line:161
+HID_OUTPUT_REPORT_BYTES::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	167;"	d	line:167
+HID_RPT01_SIZE::47	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	162;"	d	line:162
+HID_UEP::UEP1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	156;"	d	line:156
+HOST_TO_DEV::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	141;"	d	line:141
+HSHK_EN::0x10	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	195;"	d	line:195
+HandleControlOutReport	F:\MAPLIBCXBC\MCC18 USB\main.c	1012;"	f	line:1012
+HandleControlOutReport	F:\MAPLIBCXBC\MCC18 USB\main.c	73;"	p	line:73	file:	signature:(void)
+HighB	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	284;"	m	line:284	struct:_WORD::<anonymous>
+IN::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	78;"	d	line:78
+INCDIS	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	331;"	m	line:331	struct:_BD_STAT::<anonymous>
+IN_TOKEN::0b00001001	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	138;"	d	line:138
+InitializeSystem	F:\MAPLIBCXBC\MCC18 USB\main.c	111;"	f	line:111
+InitializeSystem	F:\MAPLIBCXBC\MCC18 USB\main.c	22;"	p	line:22	file:	signature:(void)
+KEN	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	332;"	m	line:332	struct:_BD_STAT::<anonymous>
+LSB::(a)((a).v[0])	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	291;"	d	line:291
+LowB	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	283;"	m	line:283	struct:_WORD::<anonymous>
+MAX_EP_NUMBER::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	188;"	d	line:188
+MAX_NUM_INT::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	186;"	d	line:186
+MODE_PP::_PPBM0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	230;"	d	line:230
+MSB::(a)((a).v[1])	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	292;"	d	line:292
+MUID_CDC::3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	74;"	d	line:74
+MUID_HID::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	73;"	d	line:73
+MUID_NULL::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	71;"	d	line:71
+MUID_USB9::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	72;"	d	line:72
+OUT::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	77;"	d	line:77
+OUT_TOKEN::0b00000001	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	137;"	d	line:137
+PIC_EP_DIR_MASK::0b00000100	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	81;"	d	line:81
+PIC_EP_NUM_MASK::0b01111000	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	80;"	d	line:80
+PID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	348;"	m	line:348	struct:_BD_STAT::<anonymous>
+PID0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	339;"	m	line:339	struct:_BD_STAT::<anonymous>
+PID1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	340;"	m	line:340	struct:_BD_STAT::<anonymous>
+PID2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	341;"	m	line:341	struct:_BD_STAT::<anonymous>
+PID3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	342;"	m	line:342	struct:_BD_STAT::<anonymous>
+POINTER	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	318;"	t	line:318
+POWERED_STATE::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	210;"	d	line:210
+ProcessIO	F:\MAPLIBCXBC\MCC18 USB\main.c	164;"	f	line:164
+ProcessIO	F:\MAPLIBCXBC\MCC18 USB\main.c	24;"	p	line:24	file:	signature:(void)
+RCPT_DEV::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	148;"	d	line:148
+RCPT_EP::2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	150;"	d	line:150
+RCPT_INTF::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	149;"	d	line:149
+RCPT_OTH::3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	151;"	d	line:151
+Recipient	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	400;"	m	line:400	struct:_CTRL_TRF_SETUP::<anonymous>
+RemoteWakeup	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	245;"	m	line:245	struct:_USB_DEVICE_STATUS::<anonymous>
+ReportLoopback	F:\MAPLIBCXBC\MCC18 USB\main.c	1044;"	f	line:1044
+ReportLoopback	F:\MAPLIBCXBC\MCC18 USB\main.c	74;"	p	line:74	file:	signature:(void)
+RequestType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	401;"	m	line:401	struct:_CTRL_TRF_SETUP::<anonymous>
+SETUP_TOKEN::0b00001101	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	136;"	d	line:136
+SET_ADR::5	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	38;"	d	line:38
+SET_CFG::9	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	42;"	d	line:42
+SET_DSC::7	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	40;"	d	line:40
+SET_FEATURE::3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	37;"	d	line:37
+SET_IDLE::0x0A	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	180;"	d	line:180
+SET_INTF::11	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	44;"	d	line:44
+SET_PROTOCOL::0x0B	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	181;"	d	line:181
+SET_REPORT::0x09	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	179;"	d	line:179
+STANDARD::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	144;"	d	line:144
+SYNCH_FRAME::12	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	45;"	d	line:45
+SetupPkt	F:\MAPLIBCXBC\MCC18 USB\USB data.h	111;"	v	line:111
+Stat	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	357;"	m	line:357	struct:_BDT::<anonymous>
+UCFG_VAL::_PUEN|_TRINT|_FS|MODE_PP	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	231;"	d	line:231
+UOWN	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	334;"	m	line:334	struct:_BD_STAT::<anonymous>
+UOWN	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	344;"	m	line:344	struct:_BD_STAT::<anonymous>
+USBCheckBusStatus	F:\MAPLIBCXBC\MCC18 USB\main.c	176;"	f	line:176
+USBCheckBusStatus	F:\MAPLIBCXBC\MCC18 USB\main.c	80;"	p	line:80	file:	signature:(void)
+USBCheckHIDRequest	F:\MAPLIBCXBC\MCC18 USB\main.c	60;"	p	line:60	file:	signature:(void)
+USBCheckHIDRequest	F:\MAPLIBCXBC\MCC18 USB\main.c	804;"	f	line:804
+USBCheckStdRequest	F:\MAPLIBCXBC\MCC18 USB\main.c	48;"	p	line:48	file:	signature:(void)
+USBCheckStdRequest	F:\MAPLIBCXBC\MCC18 USB\main.c	554;"	f	line:554
+USBCtrlEPService	F:\MAPLIBCXBC\MCC18 USB\main.c	343;"	f	line:343
+USBCtrlEPService	F:\MAPLIBCXBC\MCC18 USB\main.c	34;"	p	line:34	file:	signature:(void)
+USBCtrlEPServiceComplete	F:\MAPLIBCXBC\MCC18 USB\main.c	40;"	p	line:40	file:	signature:(void)
+USBCtrlEPServiceComplete	F:\MAPLIBCXBC\MCC18 USB\main.c	423;"	f	line:423
+USBCtrlTrfInHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	38;"	p	line:38	file:	signature:(void)
+USBCtrlTrfInHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	405;"	f	line:405
+USBCtrlTrfOutHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	37;"	p	line:37	file:	signature:(void)
+USBCtrlTrfOutHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	380;"	f	line:380
+USBCtrlTrfRxService	F:\MAPLIBCXBC\MCC18 USB\main.c	43;"	p	line:43	file:	signature:(void)
+USBCtrlTrfRxService	F:\MAPLIBCXBC\MCC18 USB\main.c	525;"	f	line:525
+USBCtrlTrfSetupHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	360;"	f	line:360
+USBCtrlTrfSetupHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	36;"	p	line:36	file:	signature:(void)
+USBCtrlTrfTxService	F:\MAPLIBCXBC\MCC18 USB\main.c	42;"	p	line:42	file:	signature:(void)
+USBCtrlTrfTxService	F:\MAPLIBCXBC\MCC18 USB\main.c	480;"	f	line:480
+USBDriverService	F:\MAPLIBCXBC\MCC18 USB\main.c	216;"	f	line:216
+USBDriverService	F:\MAPLIBCXBC\MCC18 USB\main.c	81;"	p	line:81	file:	signature:(void)
+USBPrepareForNextSetupTrf	F:\MAPLIBCXBC\MCC18 USB\main.c	330;"	f	line:330
+USBPrepareForNextSetupTrf	F:\MAPLIBCXBC\MCC18 USB\main.c	33;"	p	line:33	file:	signature:(void)
+USBStdFeatureReqHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	53;"	p	line:53	file:	signature:(void)
+USBStdFeatureReqHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	735;"	f	line:735
+USBStdGetDscHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	50;"	p	line:50	file:	signature:(void)
+USBStdGetDscHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	652;"	f	line:652
+USBStdGetStatusHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	52;"	p	line:52	file:	signature:(void)
+USBStdGetStatusHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	705;"	f	line:705
+USBStdSetCfgHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	51;"	p	line:51	file:	signature:(void)
+USBStdSetCfgHandler	F:\MAPLIBCXBC\MCC18 USB\main.c	684;"	f	line:684
+USBTasks	F:\MAPLIBCXBC\MCC18 USB\main.c	152;"	f	line:152
+USBTasks	F:\MAPLIBCXBC\MCC18 USB\main.c	23;"	p	line:23	file:	signature:(void)
+USB_BUS_ATTACHED::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	201;"	d	line:201
+USB_BUS_DETACHED::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	202;"	d	line:202
+USB_CD_Ptr	F:\MAPLIBCXBC\MCC18 USB\USB data.h	240;"	v	line:240
+USB_CFG_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	553;"	t	line:553
+USB_DEVICE_STATUS	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	248;"	t	line:248
+USB_DEV_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	537;"	t	line:537
+USB_EP_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	579;"	t	line:579
+USB_HID_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	597;"	t	line:597
+USB_HID_HEADER	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	587;"	t	line:587
+USB_INTF_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	568;"	t	line:568
+USB_SD_Ptr	F:\MAPLIBCXBC\MCC18 USB\USB data.h	241;"	v	line:241
+USB_sense::PORTAbits.RA1	F:\MAPLIBCXBC\MCC18 USB\main.c	14;"	d	line:14	file:
+USE_USB_BUS_SENSE_IO	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	2;"	d	line:2
+UserInit	F:\MAPLIBCXBC\MCC18 USB\main.c	130;"	f	line:130
+UserInit	F:\MAPLIBCXBC\MCC18 USB\main.c	27;"	p	line:27	file:	signature:(void)
+VENDOR::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	146;"	d	line:146
+WAIT_SETUP::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	130;"	d	line:130
+WORD	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	290;"	t	line:290
+W_Index	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	395;"	m	line:395	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Length	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	396;"	m	line:396	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Value	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	394;"	m	line:394	struct:_CTRL_TRF_SETUP::<anonymous>
+_BDT	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	353;"	u	line:353
+_BD_STAT	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	323;"	u	line:323
+_BSTALL::0x04	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	117;"	d	line:117
+_BULK::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	53;"	d	line:53
+_BYTE	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	251;"	u	line:251
+_CTRL::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	51;"	d	line:51
+_CTRL_TRF_DATA	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	485;"	u	line:485
+_CTRL_TRF_SETUP	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	372;"	u	line:372
+_DAT0::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	121;"	d	line:121
+_DAT1::0x40	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	122;"	d	line:122
+_DEFAULT::0x01<<7	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	63;"	d	line:63
+_DTSEN::0x08	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	118;"	d	line:118
+_DTSMASK::0x40	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	123;"	d	line:123
+_EP01_IN::0x81	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	5;"	d	line:5
+_EP01_OUT::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	4;"	d	line:4
+_EP02_IN::0x82	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	7;"	d	line:7
+_EP02_OUT::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	6;"	d	line:6
+_EP03_IN::0x83	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	9;"	d	line:9
+_EP03_OUT::0x03	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	8;"	d	line:8
+_EP04_IN::0x84	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	11;"	d	line:11
+_EP04_OUT::0x04	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	10;"	d	line:10
+_EP05_IN::0x85	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	13;"	d	line:13
+_EP05_OUT::0x05	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	12;"	d	line:12
+_EP06_IN::0x86	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	15;"	d	line:15
+_EP06_OUT::0x06	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	14;"	d	line:14
+_EP07_IN::0x87	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	17;"	d	line:17
+_EP07_OUT::0x07	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	16;"	d	line:16
+_EP08_IN::0x88	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	19;"	d	line:19
+_EP08_OUT::0x08	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	18;"	d	line:18
+_EP09_IN::0x89	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	21;"	d	line:21
+_EP09_OUT::0x09	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	20;"	d	line:20
+_EP10_IN::0x8A	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	23;"	d	line:23
+_EP10_OUT::0x0A	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	22;"	d	line:22
+_EP11_IN::0x8B	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	25;"	d	line:25
+_EP11_OUT::0x0B	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	24;"	d	line:24
+_EP12_IN::0x8C	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	27;"	d	line:27
+_EP12_OUT::0x0C	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	26;"	d	line:26
+_EP13_IN::0x8D	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	29;"	d	line:29
+_EP13_OUT::0x0D	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	28;"	d	line:28
+_EP14_IN::0x8E	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	31;"	d	line:31
+_EP14_OUT::0x0E	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	30;"	d	line:30
+_EP15_IN::0x8F	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	33;"	d	line:33
+_EP15_OUT::0x0F	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	32;"	d	line:32
+_FS::0x04	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	221;"	d	line:221
+_INCDIS::0x10	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	119;"	d	line:119
+_INT::0x03	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	54;"	d	line:54
+_ISO::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	52;"	d	line:52
+_KEN::0x20	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	120;"	d	line:120
+_LS::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	220;"	d	line:220
+_OEMON::0x40	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	225;"	d	line:225
+_POINTER	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	295;"	u	line:295
+_PPBM0::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	217;"	d	line:217
+_PPBM1::0x01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	218;"	d	line:218
+_PPBM2::0x02	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	219;"	d	line:219
+_PUEN::0x10	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	224;"	d	line:224
+_RAM::0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	197;"	d	line:197
+_ROM::1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	198;"	d	line:198
+_RWU::0x01<<5	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	65;"	d	line:65
+_SELF::0x01<<6	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	64;"	d	line:64
+_TREXT::0x08	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	223;"	d	line:223
+_TRINT::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	222;"	d	line:222
+_UCPU::0x00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	125;"	d	line:125
+_USB_CFG_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	542;"	s	line:542
+_USB_DEVICE_STATUS	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	240;"	u	line:240
+_USB_DEV_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	521;"	s	line:521
+_USB_EP_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	571;"	s	line:571
+_USB_HID_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	589;"	s	line:589
+_USB_HID_HEADER	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	583;"	s	line:583
+_USB_INTF_DSC	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	557;"	s	line:557
+_USIE::0x80	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	124;"	d	line:124
+_UTEYE::0x80	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	226;"	d	line:226
+_WORD	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	268;"	u	line:268
+_byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	242;"	m	line:242	union:_USB_DEVICE_STATUS
+_byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	253;"	m	line:253	union:_BYTE
+_byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	325;"	m	line:325	union:_BD_STAT
+_byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	377;"	m	line:377	struct:_CTRL_TRF_SETUP::<anonymous>
+_byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	490;"	m	line:490	struct:_CTRL_TRF_DATA::<anonymous>
+_byte0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	496;"	m	line:496	struct:_CTRL_TRF_DATA::<anonymous>
+_byte1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	497;"	m	line:497	struct:_CTRL_TRF_DATA::<anonymous>
+_byte2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	498;"	m	line:498	struct:_CTRL_TRF_DATA::<anonymous>
+_byte3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	499;"	m	line:499	struct:_CTRL_TRF_DATA::<anonymous>
+_byte4	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	500;"	m	line:500	struct:_CTRL_TRF_DATA::<anonymous>
+_byte5	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	501;"	m	line:501	struct:_CTRL_TRF_DATA::<anonymous>
+_byte6	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	502;"	m	line:502	struct:_CTRL_TRF_DATA::<anonymous>
+_byte7	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	503;"	m	line:503	struct:_CTRL_TRF_DATA::<anonymous>
+_reset	F:\MAPLIBCXBC\MCC18 USB\main.c	86;"	f	line:86	signature:(void)
+_startup	F:\MAPLIBCXBC\MCC18 USB\main.c	84;"	p	line:84	file:	signature:(void)
+_word	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	270;"	m	line:270	union:_WORD
+_word	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	303;"	m	line:303	union:_POINTER
+_word0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	507;"	m	line:507	struct:_CTRL_TRF_DATA::<anonymous>
+_word1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	508;"	m	line:508	struct:_CTRL_TRF_DATA::<anonymous>
+_word2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	509;"	m	line:509	struct:_CTRL_TRF_DATA::<anonymous>
+_word3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	510;"	m	line:510	struct:_CTRL_TRF_DATA::<anonymous>
+active_protocol	F:\MAPLIBCXBC\MCC18 USB\USB data.h	19;"	v	line:19
+b0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	256;"	m	line:256	struct:_BYTE::<anonymous>
+b1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	257;"	m	line:257	struct:_BYTE::<anonymous>
+b2	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	258;"	m	line:258	struct:_BYTE::<anonymous>
+b3	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	259;"	m	line:259	struct:_BYTE::<anonymous>
+b4	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	260;"	m	line:260	struct:_BYTE::<anonymous>
+b5	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	261;"	m	line:261	struct:_BYTE::<anonymous>
+b6	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	262;"	m	line:262	struct:_BYTE::<anonymous>
+b7	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	263;"	m	line:263	struct:_BYTE::<anonymous>
+bAltID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	447;"	m	line:447	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltID_H	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	448;"	m	line:448	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltSetting	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	562;"	m	line:562	struct:_USB_INTF_DSC
+bCfgRSD	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	437;"	m	line:437	struct:_CTRL_TRF_SETUP::<anonymous>
+bCfgValue	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	436;"	m	line:436	struct:_CTRL_TRF_SETUP::<anonymous>
+bCfgValue	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	548;"	m	line:548	struct:_USB_CFG_DSC
+bCountryCode	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	594;"	m	line:594	struct:_USB_HID_DSC
+bDescriptorType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	585;"	m	line:585	struct:_USB_HID_HEADER
+bDevADR	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	425;"	m	line:425	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADRH	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	426;"	m	line:426	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevCls	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	526;"	m	line:526	struct:_USB_DEV_DSC
+bDevProtocol	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	528;"	m	line:528	struct:_USB_DEV_DSC
+bDevSubCls	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	527;"	m	line:527	struct:_USB_DEV_DSC
+bDscIndex	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	415;"	m	line:415	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscType	F:\MAPLIBCXBC\MCC18 USB\USB data.h	227;"	m	line:227
+bDscType	F:\MAPLIBCXBC\MCC18 USB\USB data.h	230;"	m	line:230
+bDscType	F:\MAPLIBCXBC\MCC18 USB\USB data.h	235;"	m	line:235
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	416;"	m	line:416	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	524;"	m	line:524	struct:_USB_DEV_DSC
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	545;"	m	line:545	struct:_USB_CFG_DSC
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	560;"	m	line:560	struct:_USB_INTF_DSC
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	574;"	m	line:574	struct:_USB_EP_DSC
+bDscType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	592;"	m	line:592	struct:_USB_HID_DSC
+bEPAdr	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	575;"	m	line:575	struct:_USB_EP_DSC
+bEPID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	460;"	m	line:460	struct:_CTRL_TRF_SETUP::<anonymous>
+bEPID_H	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	461;"	m	line:461	struct:_CTRL_TRF_SETUP::<anonymous>
+bFeature	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	404;"	m	line:404	struct:_CTRL_TRF_SETUP::<anonymous>
+bHigh	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	300;"	m	line:300	struct:_POINTER::<anonymous>
+bInterval	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	578;"	m	line:578	struct:_USB_EP_DSC
+bIntfCls	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	564;"	m	line:564	struct:_USB_INTF_DSC
+bIntfID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	449;"	m	line:449	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfID_H	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	450;"	m	line:450	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfNum	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	561;"	m	line:561	struct:_USB_INTF_DSC
+bIntfProtocol	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	566;"	m	line:566	struct:_USB_INTF_DSC
+bIntfSubCls	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	565;"	m	line:565	struct:_USB_INTF_DSC
+bLength	F:\MAPLIBCXBC\MCC18 USB\USB data.h	227;"	m	line:227
+bLength	F:\MAPLIBCXBC\MCC18 USB\USB data.h	230;"	m	line:230
+bLength	F:\MAPLIBCXBC\MCC18 USB\USB data.h	235;"	m	line:235
+bLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	523;"	m	line:523	struct:_USB_DEV_DSC
+bLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	544;"	m	line:544	struct:_USB_CFG_DSC
+bLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	559;"	m	line:559	struct:_USB_INTF_DSC
+bLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	573;"	m	line:573	struct:_USB_EP_DSC
+bLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	591;"	m	line:591	struct:_USB_HID_DSC
+bLow	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	299;"	m	line:299	struct:_POINTER::<anonymous>
+bMaxPktSize0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	529;"	m	line:529	struct:_USB_DEV_DSC
+bMaxPower	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	552;"	m	line:552	struct:_USB_CFG_DSC
+bNumCfg	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	536;"	m	line:536	struct:_USB_DEV_DSC
+bNumDsc	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	595;"	m	line:595	struct:_USB_HID_DSC
+bNumEPs	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	563;"	m	line:563	struct:_USB_INTF_DSC
+bNumIntf	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	547;"	m	line:547	struct:_USB_CFG_DSC
+bRam	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	307;"	m	line:307	union:_POINTER
+bRequest	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	384;"	m	line:384	struct:_CTRL_TRF_SETUP::<anonymous>
+bRom	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	312;"	m	line:312	union:_POINTER
+bcdDevice	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	532;"	m	line:532	struct:_USB_DEV_DSC
+bcdHID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	593;"	m	line:593	struct:_USB_HID_DSC
+bcdUSB	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	525;"	m	line:525	struct:_USB_DEV_DSC
+bmAttributes	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	551;"	m	line:551	struct:_USB_CFG_DSC
+bmAttributes	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	576;"	m	line:576	struct:_USB_EP_DSC
+bmRequestType	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	383;"	m	line:383	struct:_CTRL_TRF_SETUP::<anonymous>
+byte	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	235;"	t	line:235
+byte0	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	273;"	m	line:273	struct:_WORD::<anonymous>
+byte1	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	274;"	m	line:274	struct:_WORD::<anonymous>
+byte_to_read	F:\MAPLIBCXBC\MCC18 USB\main.c	527;"	l	line:527
+byte_to_send	F:\MAPLIBCXBC\MCC18 USB\main.c	482;"	l	line:482
+cd01	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	601;"	v	line:601
+count	F:\MAPLIBCXBC\MCC18 USB\main.c	1004;"	l	line:1004
+count	F:\MAPLIBCXBC\MCC18 USB\main.c	1014;"	l	line:1014
+count	F:\MAPLIBCXBC\MCC18 USB\main.c	1046;"	l	line:1046
+count	F:\MAPLIBCXBC\MCC18 USB\main.c	994;"	l	line:994
+ctrl_trf_mem	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	246;"	m	line:246	struct:_USB_DEVICE_STATUS::<anonymous>
+ctrl_trf_session_owner	F:\MAPLIBCXBC\MCC18 USB\USB data.h	11;"	v	line:11
+ctrl_trf_state	F:\MAPLIBCXBC\MCC18 USB\USB data.h	10;"	v	line:10
+device_dsc	F:\MAPLIBCXBC\MCC18 USB\USB data.h	158;"	v	line:158
+dword	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	237;"	t	line:237
+ep01i_i00a00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	604;"	v	line:604
+ep01o_i00a00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	605;"	v	line:605
+ep0Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	33;"	v	line:33
+ep0Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	32;"	v	line:32
+ep10Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	83;"	v	line:83
+ep10Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	82;"	v	line:82
+ep11Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	88;"	v	line:88
+ep11Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	87;"	v	line:87
+ep12Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	93;"	v	line:93
+ep12Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	92;"	v	line:92
+ep13Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	98;"	v	line:98
+ep13Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	97;"	v	line:97
+ep14Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	103;"	v	line:103
+ep14Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	102;"	v	line:102
+ep15Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	108;"	v	line:108
+ep15Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	107;"	v	line:107
+ep1Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	38;"	v	line:38
+ep1Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	37;"	v	line:37
+ep2Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	43;"	v	line:43
+ep2Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	42;"	v	line:42
+ep3Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	48;"	v	line:48
+ep3Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	47;"	v	line:47
+ep4Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	53;"	v	line:53
+ep4Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	52;"	v	line:52
+ep5Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	58;"	v	line:58
+ep5Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	57;"	v	line:57
+ep6Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	63;"	v	line:63
+ep6Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	62;"	v	line:62
+ep7Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	68;"	v	line:68
+ep7Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	67;"	v	line:67
+ep8Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	73;"	v	line:73
+ep8Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	72;"	v	line:72
+ep9Bi	F:\MAPLIBCXBC\MCC18 USB\USB data.h	78;"	v	line:78
+ep9Bo	F:\MAPLIBCXBC\MCC18 USB\USB data.h	77;"	v	line:77
+header	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	596;"	m	line:596	struct:_USB_HID_DSC
+hid_i00a00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	603;"	v	line:603
+hid_report_feature	F:\MAPLIBCXBC\MCC18 USB\USB data.h	117;"	v	line:117
+hid_report_in	F:\MAPLIBCXBC\MCC18 USB\USB data.h	116;"	v	line:116
+hid_report_out	F:\MAPLIBCXBC\MCC18 USB\USB data.h	115;"	v	line:115
+hid_rpt01	F:\MAPLIBCXBC\MCC18 USB\USB data.h	124;"	v	line:124
+hid_rpt_rx_len	F:\MAPLIBCXBC\MCC18 USB\USB data.h	17;"	v	line:17
+i	F:\MAPLIBCXBC\MCC18 USB\main.c	972;"	l	line:972
+i00a00	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	602;"	v	line:602
+iCfg	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	550;"	m	line:550	struct:_USB_CFG_DSC
+iIntf	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	567;"	m	line:567	struct:_USB_INTF_DSC
+iMFR	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	533;"	m	line:533	struct:_USB_DEV_DSC
+iProduct	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	534;"	m	line:534	struct:_USB_DEV_DSC
+iSerialNum	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	535;"	m	line:535	struct:_USB_DEV_DSC
+idProduct	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	531;"	m	line:531	struct:_USB_DEV_DSC
+idVendor	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	530;"	m	line:530	struct:_USB_DEV_DSC
+idle_rate	F:\MAPLIBCXBC\MCC18 USB\USB data.h	18;"	v	line:18
+mDisableEP1to15	F:\MAPLIBCXBC\MCC18 USB\main.c	29;"	p	line:29	file:	signature:(void)
+mDisableEP1to15	F:\MAPLIBCXBC\MCC18 USB\main.c	303;"	f	line:303
+mInitializeUSBDriver	F:\MAPLIBCXBC\MCC18 USB\main.c	142;"	f	line:142
+mInitializeUSBDriver	F:\MAPLIBCXBC\MCC18 USB\main.c	26;"	p	line:26	file:	signature:(void)
+mUSBBufferReady::(buffer_dsc)\	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	608;"	d	line:608
+mUSBBufferReady::(buffer_dsc)\	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	616;"	d	line:616
+mUSBCheckAdrPendingState	F:\MAPLIBCXBC\MCC18 USB\main.c	55;"	p	line:55	file:	signature:(void)
+mUSBCheckAdrPendingState	F:\MAPLIBCXBC\MCC18 USB\main.c	765;"	f	line:765
+main	F:\MAPLIBCXBC\MCC18 USB\main.c	96;"	f	line:96
+number_of_bytes_read	F:\MAPLIBCXBC\MCC18 USB\USB data.h	21;"	v	line:21
+pDst	F:\MAPLIBCXBC\MCC18 USB\USB data.h	14;"	v	line:14
+pSrc	F:\MAPLIBCXBC\MCC18 USB\USB data.h	13;"	v	line:13
+receive_buffer	F:\MAPLIBCXBC\MCC18 USB\USB data.h	23;"	v	line:23
+report	F:\MAPLIBCXBC\MCC18 USB\USB data.h	124;"	m	line:124
+sd000	F:\MAPLIBCXBC\MCC18 USB\USB data.h	227;"	v	line:227
+sd001	F:\MAPLIBCXBC\MCC18 USB\USB data.h	230;"	v	line:230
+sd002	F:\MAPLIBCXBC\MCC18 USB\USB data.h	235;"	v	line:235
+string	F:\MAPLIBCXBC\MCC18 USB\USB data.h	227;"	m	line:227
+string	F:\MAPLIBCXBC\MCC18 USB\USB data.h	230;"	m	line:230
+string	F:\MAPLIBCXBC\MCC18 USB\USB data.h	235;"	m	line:235
+transmit_buffer	F:\MAPLIBCXBC\MCC18 USB\USB data.h	22;"	v	line:22
+tris_usb_bus_sense::TRISAbits.TRISA1	F:\MAPLIBCXBC\MCC18 USB\main.c	15;"	d	line:15	file:
+usb_active_cfg	F:\MAPLIBCXBC\MCC18 USB\USB data.h	7;"	v	line:7
+usb_alt_intf	F:\MAPLIBCXBC\MCC18 USB\USB data.h	8;"	v	line:8
+usb_device_state	F:\MAPLIBCXBC\MCC18 USB\USB data.h	6;"	v	line:6
+usb_stat	F:\MAPLIBCXBC\MCC18 USB\USB data.h	5;"	v	line:5
+user	F:\MAPLIBCXBC\MCC18 USB\main.c	1072;"	f	line:1072
+user	F:\MAPLIBCXBC\MCC18 USB\main.c	76;"	p	line:76	file:	signature:(void)
+v	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	288;"	m	line:288	struct:_WORD::<anonymous>
+wCount	F:\MAPLIBCXBC\MCC18 USB\USB data.h	15;"	v	line:15
+wDescriptorLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	586;"	m	line:586	struct:_USB_HID_HEADER
+wIndex	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	386;"	m	line:386	struct:_CTRL_TRF_SETUP::<anonymous>
+wLangID	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	417;"	m	line:417	struct:_CTRL_TRF_SETUP::<anonymous>
+wLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	387;"	m	line:387	struct:_CTRL_TRF_SETUP::<anonymous>
+wMaxPktSize	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	577;"	m	line:577	struct:_USB_EP_DSC
+wRam	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	309;"	m	line:309	union:_POINTER
+wRom	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	313;"	m	line:313	union:_POINTER
+wTotalLength	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	546;"	m	line:546	struct:_USB_CFG_DSC
+wValue	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	385;"	m	line:385	struct:_CTRL_TRF_SETUP::<anonymous>
+word	F:\MAPLIBCXBC\MCC18 USB\typedefint.h	236;"	t	line:236

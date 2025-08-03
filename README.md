@@ -3,10 +3,8 @@ pic18f4550 HID class with 8 LEDs on/off
 VID=0xffff  
 PID=0x1000  
 2 bytes of out end point. 1 of byte for 8 LEDs.  
+<br>
 
-# In progress / 上傳中
-# In progress / 上傳中
-# In progress / 上傳中
 ## note
 I added a file of cfg_bit.h to specify the settings in pic18f4550.  
 Thus, select the file of hex that matches your board.  

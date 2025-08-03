@@ -21,7 +21,6 @@ This EVK with 20Mhz xtal.
 <br>
 
 ## Flash device of pic18f4550
-...
 ![pic](pic/pg24a.JPG)<br>
 Run MPLAB IDE  
 Select your programmer  
@@ -33,6 +32,7 @@ Import the file of hex
 Check the setting of clock that matches you board  
 
 ## Test with linux  
+<br>
 ![pic](pic/t1.png)<br>
 Turn on 8 of LED.  
 <br>

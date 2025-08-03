@@ -1,5 +1,7 @@
 # pic18f4550_HID_LED
-pic18f4550 HID class with 8 LEDs on/off
+pic18f4550 HID class with 8 LEDs on/off  
+VID=0xffff
+PID=0x1000
 
 # In progress / 上傳中
 # In progress / 上傳中
@@ -14,7 +16,14 @@ This EVK with 24Mhz xtal.
 <br>
 <br>![pic](pic/b.jpg)<br>
 <br>
-This EVK with 20Mhz xtal.
+This EVK with 20Mhz xtal.  
+<br>
+
+## Flash device of pic18f4550
+<br>![pic](pic/pg24a.jpg)<br>
+<br>![pic](pic/pg24b.jpg)<br>
+<br>![pic](pic/pg24c.jpg)<br>
+
 
 
 --

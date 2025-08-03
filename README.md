@@ -30,8 +30,9 @@ Import the file of hex
 <br>
 ![pic](pic/pg24c.JPG)<br>
 Check the setting of clock that matches you board  
+<br>
 
-Test with linux  
+## Test with linux  
 
 ![pic](pic/t1.png)<br>
 Turn on 8 of LED.  

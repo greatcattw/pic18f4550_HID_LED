@@ -20,9 +20,16 @@ This EVK with 20Mhz xtal.
 <br>
 
 ## Flash device of pic18f4550
-<br>![pic](pic/pg24a.JPG)<br>
-<br>![pic](pic/pg24b.JPG)<br>
-<br>![pic](pic/pg24c.JPG)<br>
+![pic](pic/pg24a.JPG)<br>
+Run MPLAB IDE  
+Select your programmer  
+<br>
+![pic](pic/pg24b.JPG)<br>
+Import the file of hex  
+<br>
+![pic](pic/pg24c.JPG)<br>
+Check the setting of clock that matches you board  
+
 
 
 

@@ -1,7 +1,7 @@
 # pic18f4550_HID_LED
 pic18f4550 HID class with 8 LEDs on/off  
-VID=0xffff
-PID=0x1000
+VID=0xffff  
+PID=0x1000  
 
 # In progress / 上傳中
 # In progress / 上傳中

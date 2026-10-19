@@ -44,12 +44,12 @@ python version.
 
 ## uDev setting
 <br>
-sudo nano /etc/udev/rules.d/99-hid-device.rules  
-SUBSYSTEM=="usb", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"  
-SUBSYSTEM=="hidraw", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"  
+sudo nano /etc/udev/rules.d/99-hid-device.rules<br>
+SUBSYSTEM=="usb", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"<br>
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"<br>
 <br>
-sudo udevadm control --reload-rules  
-sudo udevadm trigger
+sudo udevadm control --reload-rules<br>
+sudo udevadm trigger<br>
 
 2025/08/04<br>
 2026/10/14<br>

@@ -41,5 +41,17 @@ Turn off 8 of LED.
 ![pic](pic/py_host.png)<br>
 python version.  
 <br>
+
+## uDev setting
+<br>
+sudo nano /etc/udev/rules.d/99-hid-device.rules  
+SUBSYSTEM=="usb", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"  
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="ffff", ATTRS{idProduct}=="1000", MODE="0666", GROUP="plugdev"  
+<br>
+sudo udevadm control --reload-rules  
+sudo udevadm trigger
+
 2025/08/04<br>
-2026/10/14
+2026/10/14<br>
+2026/10/19<br>
+
